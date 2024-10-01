@@ -1,0 +1,3 @@
+[submodule "examp1"]
+	path = examp1
+	url = http://zapad.stanford.edu/bob/dataio.git
